@@ -1,4 +1,4 @@
-package com.example.rohit.booksandroid;
+package com.example.jameswang.bookshop;
 
 import android.util.Log;
 
